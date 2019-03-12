@@ -1,0 +1,16 @@
+VIM:-
+
+press "a" to insert 
+To save Esc->::wq <filename>
+:wq stands for write and quits
+
+To Open File--vim <filename>
+
+:wq 	  -> save then exit
+:q! 	  -> Exit without saving
+:set nu   -> for line numbers
+:set nonu -> for hiding line no:s
+dd	  -> cut
+yy	  -> copy
+p	  -> paste
+u	  -> undo
